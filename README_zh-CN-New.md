@@ -329,7 +329,7 @@
 - [![Open-Source Software][OSS Icon]](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree) [Wireshark](https://www.wireshark.org/) - Wireshark 是世界领先的网络协议分析器。它让你可以在微观层级观察你的网络上发生了什么。它是许多工业和教育行业事实上的（经常也是法律上的）标准。
 - [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal 是一款面向软件开发者的离线文档阅读器。
 
-### E-Book Utilities
+### 电子书工具
 - [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) [Bookworm](https://babluboy.github.io/bookworm/) - 简单，专注于电子书阅读。
 - [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) [Buka](https://github.com/oguzhaninan/Buka/releases) - 电子书管理。
 - [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) [Calibre](http://calibre-ebook.com/) - 难以置信的丑但很强大的电子书管理和转换软件。
@@ -351,96 +351,97 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil 是一款多平台 EPUB 电子书编辑器。
 - [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git) [Zathura](https://pwmt.org/projects/zathura/) - Zathura是一个高度可定制且功能丰富的文档查看器。
 
-### Editors
-- [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - Hackable text editor for the 21st century.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code.
-- [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - A modern text editor that understands web design.
-- [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
-- [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages.
-- [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/gedit/) [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Powerful IDE for modern C / C++ / Bash / JavaScript development, made by Gnome Team. One of the best IDE for C/C++ developement (Cmake integrated).
-- [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](http://kakoune.org/) - Kakoune code editor - Vim inspired.  Faster as in less keystrokes.  Multiple selections.  Orthogonal design. Has a strong focus on interactivity.
-- [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate is a multi-document editor part of KDE since release 2.2.
-- [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Free and open source multilanguage development environment.
-- [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding.
-- [![Open-Source Software][OSS Icon]](https://github.com/zyedidia/micro) [Micro](https://micro-editor.github.io/) - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.
-- [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing.
-- [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim is a fork of Vim aiming to improve user experience, plugins, and GUIs.
-- [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - A community-driven Emacs distribution.
-- [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
-- [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
-- [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](http://www.vim.org/download.php) -Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor.
-- [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
+### 编辑器
+- [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - 21 世纪的可 hack 文本编辑器。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish 是一款面向程序员和 web 开发者的强大编辑器，带有很多编写网站，脚本和代码的选项。
+- [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - 懂 web 设计的现代文本编辑器。
+- [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - 可扩展，可个性化，免费/自由的文本编辑器——还有更多。
+- [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany 是一款使用了 GTK+ 工具集的文本编辑器，带有基本的集成开发环境功能。它的开发是为了成为一个小型又快速的 IDE，对其它包仅有不多的依赖。 
+- [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/gedit/) [Gedit](https://wiki.gnome.org/Apps/Gedit) - gedit 是 GNOME 文本编辑器。尽管以简单易用为目标，gedit 仍然是个强大的多功能编辑器。
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - 功能强大的IDE用于现代C / C ++ / Bash / JavaScript开发，由Gnome Team制作。 用于C / C ++开发的最佳IDE之一（Cmake集成）
+- [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](http://kakoune.org/) - 受 Vim 启发。更少的击键次数带来更快的速度。多重选中。直角设计。它的命令与 vi 的相似，并且适用 Vi 的“快捷键作为文本编辑语言”模型。专注于交互，大部分命令提供直接和增量的结果，相对 Vim 还是很有竞争力的（击键次数上）。
+- [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate 是一个多文档编辑器，从 KDE 2.2 开始就是 KDE 的一部分了。
+- [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - 免费和开源的多语言开发环境。
+- [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - 下一代代码编辑器！ 支持实时编码。
+- [![Open-Source Software][OSS Icon]](https://github.com/zyedidia/micro) [Micro](https://micro-editor.github.io/) - Micro是一种基于终端的文本编辑器，旨在易于使用和直观，同时还充分利用现代终端的全部功能。
+- [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano是一个文本编辑器，旨在为基于控制台的文本编辑引入简单的界面和直观的命令选项。
+- [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim是Vim的一个分支，旨在改善用户体验，插件和GUI。
+- [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - 社区驱动的Emacs发行版。
+- [![Open-Source Software][OSS Icon]](https://github.com/SpaceVim/SpaceVim)[SpaceVim](https://spacevim.org/cn/) - 一个社区驱动的模块化 Vim IDE，以模块的方式组织管理插件以及相关配置， 为不同的语言开发量身定制了相关的开发模块，该模块提供代码自动补全， 语法检查、格式化、调试、REPL 等特性。用户仅需载入相关语言的模块即可得到一个开箱即用的Vim-IDE。
+- [Sublime](https://www.sublimetext.com/) - 功能强大的文本编辑器，具有高级搜索功能，以及许多强大的插件去改进其功能。
+- [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - 程序员的极简文本编辑器。
+- [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](http://www.vim.org/download.php) - Vim 是一个高级文本编辑器，寻求以更完整的功能集提供事实上的 Unix 编辑器“Vi”的强大功能。无论你已经在使用 vi 或其它编辑器，它都十分有用。
+- [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code 是一款轻量但强大的代码编辑器，提供 Windows，OS X 以及 Linux 版本。它内置了 JavaScript，TypeScript 以及 Node.js 支持，并且对其它语言（C++，C#，Python，PHP）还有丰富的插件系统和运行环境。
 
-### Education
+### 教育
 - [![Open-Source Software][OSS Icon]](https://apps.ankiweb.net/) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
-- [![Open-Source Software][OSS Icon]](http://artha.sourceforge.net/wiki/index.php/Download#Source) [Artha](http://artha.sourceforge.net/wiki/index.php/Home) - Artha is a free cross-platform English thesaurus that works completely off-line and is based on WordNet.
-- [![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime) [BibleTime](http://bibletime.info/) - BibleTime is a Bible study application based on the Sword library and Qt toolkit.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/files/Celestia-source/1.6.1/celestia-1.6.1.tar.gz/download) [Celestia](http://celestiaproject.net/) - The free space simulation that lets you explore our universe in three dimensions.
-- [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/blob/master/README.md) [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool is a small program for drawing chemical structures on Linux.
-- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes) [Epoptes](http://www.epoptes.org/) - An open source computer lab management and monitoring tool.
-- [![Open-Source Software][OSS Icon]](https://github.com/gap-system/gap) [GAP](http://www.gap-system.org/) - A computer algebra system for computational discrete algebra with particular emphasis on computational group theory.
-- [![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner) [Gcompris](http://gcompris.net/index-en.html) - GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10.
-- [![Open-Source Software][OSS Icon]](https://github.com/geogebra/geogebra) [Geogebra](https://www.geogebra.org/download) - The graphing calculator for functions, geometry, algebra, calculus, statistics and 3D mathematics.
-- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Dictionary) [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - A powerful dictionary for GNOME.
-- [![Open-Source Software][OSS Icon]](http://opensis.sourceforge.net/) [GNU Octave](http://www.gnu.org/software/octave/) - GNU Octave is a scientific programming language, primarily intended for numerical computations, that is mostly compatible with MATLAB.
-- [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-based free-software typing instructor
-- [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata) [GNUKhata](http://www.gnukhata.in/) - Open source accounting software.
-- [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth is a virtual globe, map and geographical information program.
-- [![Open-Source Software][OSS Icon]](http://gperiodic.seul.org/cvs/) [GPeriodic](http://gperiodic.seul.org/) - GPeriodic is a periodic table application for Linux.
-- [KDE Edu Suite](https://edu.kde.org/) - Free Educational Software based on the KDE technologies.
+- [![Open-Source Software][OSS Icon]](http://artha.sourceforge.net/wiki/index.php/Download#Source) [Artha](http://artha.sourceforge.net/wiki/index.php/Home) - Artha是一个免费的跨平台英语词库，完全脱机工作，基于WordNet。
+- [![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime) [BibleTime](http://bibletime.info/) - BibleTime是一个基于Sword库和Qt工具包的圣经学习应用程序。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/files/Celestia-source/1.6.1/celestia-1.6.1.tar.gz/download) [Celestia](http://celestiaproject.net/) - 自由空间模拟，可让您以三维方式探索我们的宇宙。
+- [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/blob/master/README.md) [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool 是一款在 Linux 上绘制化学结构的小程序。
+- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes) [Epoptes](http://www.epoptes.org/) - 一款开源的计算机实验室管理和监视工具。
+- [![Open-Source Software][OSS Icon]](https://github.com/gap-system/gap) [GAP](http://www.gap-system.org/) - 计算离散代数领域内的一个优秀系统,主要专注于计算群论的计算。
+- [![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner) [Gcompris](http://gcompris.net/index-en.html) - GCompris 是一款高质量教育软件，由无数适合 2 到 10 岁儿童的活动组成。
+- [![Open-Source Software][OSS Icon]](https://github.com/geogebra/geogebra) [Geogebra](https://www.geogebra.org/download) - 图形计算器，支持函数，几何，代数，微积分，统计以及 3D 数学。
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Dictionary) [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) -GNOME的强大字典。
+- [![Open-Source Software][OSS Icon]](http://opensis.sourceforge.net/) [GNU Octave](http://www.gnu.org/software/octave/) - GNU Octave是一种科学编程语言，主要用于数值计算，主要与MATLAB兼容。
+- [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - 基于 ncurses 的免费打字教学软件 。
+- [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata) [GNUKhata](http://www.gnukhata.in/) - 开源会计软件。
+- [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth 是一款虚拟地球，地图以及地理信息程序。
+- [![Open-Source Software][OSS Icon]](http://gperiodic.seul.org/cvs/) [GPeriodic](http://gperiodic.seul.org/) - GPeriodic 是一个 Linux 上的元素周期表应用。
+- [KDE Edu Suite](https://edu.kde.org/) - 基于 KDE 技术的免费教育软件。
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/klavaro) [Klavaro](http://klavaro.sourceforge.net/en/index.html) - A touch typing tutor very flexible, supporting customizable keyboard layouts. You can edit and save new or unknown keyboard layouts, as the basic course was designed to not depend on specific ones. Also, there are some charts about the learning process.
-- [![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch) [Ktouch](https://github.com/KDE/ktouch) - KTouch is a program to learn and practice touch typing.
-- ![Nonfree][Money icon] [MAPLE](http://www.maplesoft.com/products/maple/) - Maple is math software that combines the world's most powerful math engine with an interface that makes it extremely easy to analyze, explore, visualize, and solve mathematical problems.
-- ![Nonfree][Money icon] [MapTiler](https://www.maptiler.com/) - MapTiler generates zoomable raster maps from images in user-defined coordinate system.
-- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/marble.git) [Marble](https://marble.kde.org/) - Marble is a virtual globe and world atlas — your swiss army knife for maps.
-- ![Nonfree][Money icon] [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - The MATLAB platform is optimized for solving engineering and scientific problems. MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets and scale up to clusters and clouds.
-- [![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html) [Maxima](http://maxima.sourceforge.net/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, and much more.
-- [Mendeley](https://www.mendeley.com/) - Mendeley is a program for managing and sharing research papers, finding research data and collaborating online.
-- [![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle) [Moodle](https://download.moodle.org/) - Course management system for online learning.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/openeuclide/) [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide is a 2D geometry software: figures are defined dynamically by describing formal geometrical constraints.
-- [![Open-Source Software][OSS Icon]](https://github.com/openmaptiles) [OpenMapTiles](https://openmaptiles.org/) - OpenMapTiles is a set of open-source tools for self-hosting of OpenStreetMaps in more than 50 languages. It provides both raster as well as vector tiles, WMS, WMTS, support for JavaScript viewers and mobile SDK.
-- [![Open-Source Software][OSS Icon]](http://opensis.sourceforge.net/) [OpenSIS](http://www.opensis.com/home) - School Management Software that Increases Student Achievements & Teacher Performances.
-- [![Open-Source Software][OSS Icon]](http://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary) [PARI/GP](http://pari.math.u-bordeaux.fr/) - A computer algebra system for fast computations in number theory.
-- [![Open-Source Software][OSS Icon]](https://git.sagemath.org/sage.git/) [SageMath](http://www.sagemath.org/) - A mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
-- [![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec) [Scipy](https://scipy.org/install.html) - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
-- [![Open-Source Software][OSS Icon]](https://github.com/LLK/scratch-flash) [Scratch](https://scratch.mit.edu/) - With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/) [Stellarium](http://www.stellarium.org/) - Stellarium is a free open source planetarium for your computer.
-- [![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene) [UGENE](http://ugene.net/) - UGENE is free open-source cross-platform integrated GUI-based bioinformatics software.
-- [![Open-Source Software][OSS Icon]](https://github.com/veyon/veyon) [Veyon](https://github.com/veyon/veyon/releases) - Veyon is a computer management software for classrooms, it allows a teacher to control student computers and guide students over a computer network.
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch) [Ktouch](https://github.com/KDE/ktouch) - KTouch 是一款学习和练习触摸输入的程序。
+- ![Nonfree][Money icon] [MAPLE](http://www.maplesoft.com/products/maple/) - Maple是一款数学软件，它结合了世界上最强大的数学引擎和界面，使得分析，探索，可视化和解决数学问题变得非常容易。
+- ![Nonfree][Money icon] [MapTiler](https://www.maptiler.com/) - MapTiler从用户定义的坐标系中的图像生成可缩放的栅格地图。
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/marble.git) [Marble](https://marble.kde.org/) - Marble是一个虚拟的地球仪和世界地图集 - 你的地图版瑞士军刀。
+- ![Nonfree][Money icon] [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - MATLAB平台针对解决工程和科学问题进行了优化，可以在较大的数据集上运行分析，并扩展到集群和云上。
+- [![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html) [Maxima](http://maxima.sourceforge.net/) - Maxima 是一个处理符号和数值表达式的系统，包括微分，积分，泰勒级数，拉普拉斯变换，常微分方程，线性方程组.... 
+- [Mendeley](https://www.mendeley.com/) - Mendeley是一个管理和分享研究论文，查找研究数据和在线协作的应用。
+- [![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle) [Moodle](https://download.moodle.org/) - 在线学习课程管理系统。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/openeuclide/) [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide 是一款 2D 几何软件：数据由描述形式化的几何约束动态定义。
+- [![Open-Source Software][OSS Icon]](https://github.com/openmaptiles) [OpenMapTiles](https://openmaptiles.org/) - OpenMapTiles是一套开源工具，它既提供栅格也提供矢量图块，WMS，WMTS，支持JavaScript查看器和移动端SDK。
+- [![Open-Source Software][OSS Icon]](http://opensis.sourceforge.net/) [OpenSIS](http://www.opensis.com/home) - 学校管理软件。
+- [![Open-Source Software][OSS Icon]](http://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary) [PARI/GP](http://pari.math.u-bordeaux.fr/) - 一种针对数论中的快速计算(大数分解，代数数论，椭圆曲线...) 而设计的广泛应用的计算机代数系统。 
+- [![Open-Source Software][OSS Icon]](https://git.sagemath.org/sage.git/) [SageMath](http://www.sagemath.org/) - 一款数学软件，其功能涵盖数学的许多方面，包括代数，组合学，数学数学，数论和微积分。
+- [![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec) [Scipy](https://scipy.org/install.html) - SciPy 是一个基于 Python 的开源软件生态系统，面向数学，科学，以及工程学。
+- [![Open-Source Software][OSS Icon]](https://github.com/LLK/scratch-flash) [Scratch](https://scratch.mit.edu/) - 有了 Scratch，你可以编程你自己的互动故事，游戏，以及动画——并且在在线社区和其他人分享你的创造。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/) [Stellarium](http://www.stellarium.org/) - Stellarium 是一个为你电脑准备的免费开源天文馆。
+- [![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene) [UGENE](http://ugene.net/) - UGENE 是一款免费开源，跨平台，基于图形界面的生物信息学软件。
+- [![Open-Source Software][OSS Icon]](https://github.com/veyon/veyon) [Veyon](https://github.com/veyon/veyon/releases) - Veyon是一个用于教室的计算机管理软件，它允许教师控制学生计算机并通过计算机网络引导学生。
 
-### Email
-- [![Open-Source Software][OSS Icon]](http://git.claws-mail.org/) [Claws](http://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.
-- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evolution/#Get_the_Source_Code) [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality.
-- [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/geary/) [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.
-- [Hiri](https://www.hiri.com/) - Hiri is a business focused desktop e-mail client for sending and receiving e-mails, managing calendars, contacts, and tasks.
+### 邮件
+- [![Open-Source Software][OSS Icon]](http://git.claws-mail.org/) [Claws](http://www.claws-mail.org/) - Claws是一个电子邮件客户端和新闻阅读器，具有复杂的界面，易于配置，直观的操作，丰富的功能和插件，稳健性和稳定性。
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evolution/#Get_the_Source_Code) [Evolution](https://wiki.gnome.org/Apps/Evolution/) -Evolution 是一款个人信息管理应用，集成了邮件，日历以及地址簿功能。
+- [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/geary/) [Geary](https://wiki.gnome.org/Apps/Geary) - Geary 是一款为 GNOME 3 构建的电子邮件应用。它让你可以在一个简单，现代的界面上阅读和发送邮件。
+- [Hiri](https://www.hiri.com/) - Hiri是一个专注于业务的桌面电子邮件客户端，用于发送和接收电子邮件，管理日历，联系人和任务。
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/) [KMail](https://www.kde.org/applications/internet/kmail/) - KMail is the email component of Kontact, the integrated personal information manager from KDE.
-- [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag) [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail.
-- [Mailspring](https://getmailspring.com/) - A beautiful, fast and maintained fork of Nylas Mail ([dead](https://github.com/nylas/nylas-mail)) by one of the original authors.
-- [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable) [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client.
-- [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/) [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features.
-- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/) [Trojita](http://trojita.flaska.net/download.html) - A super fast desktop email client for Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail) [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail client.
-- [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail) [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag) [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag 是一个向 POP3 和 IMAP 服务器检查新邮件的守护程序。
+- [Mailspring](https://getmailspring.com/) - Nylas Mail ([dead](https://github.com/nylas/nylas-mail))的fork分支，由其中一个原作者开发维护，简洁美观。
+- [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable) [Sylpheed](http://sylpheed.sraoss.jp/en/) - 轻量化，用户友好的电子邮件客户端。
+- [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/) [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird 是一款免费的电子邮件客户端，设置以及个性化简单方便，功能强大。
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/) [Trojita](http://trojita.flaska.net/download.html) - 适用于Linux的超快桌面电子邮件客户端。
+- [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail) [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail客户端。
+- [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail) [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox 的非官方 Linux 桌面客户端。
 
 
-### File Manager
-- [![Open-Source Software][OSS Icon]](https://github.com/pornel/7z) [7Zip](http://www.7-zip.org/download.html) - A very capable program that can unzip nearly any file archiving format.
-- [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/caja) [Caja](https://mate-desktop.org/) - Is the default file manager for the MATE desktop environment, it is very fast and simple to use.
-- [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin) [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin is the default file manager of the KDE desktop environment featuring usability as well as functionality.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/doublecmd/) [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.
-- [![Open-Source Software][OSS Icon]](https://krusader.org/get-involved/index.html) [Krusader](https://krusader.org) - Krusader is an advanced twin panel (commander style) file manager for KDE and other desktops in the \*nix world, similar to Midnight or Total Commander.
-- [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander) [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nautilus) [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus (Files) is a file manager designed to fit the Gnome desktop design and behaviour, giving the user a simple way to navigate and manage its files.
-- [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo is the file manager for the Cinnamon desktop environment.
-- [![Open-Source Software][OSS Icon]](https://github.com/jarun/nnn) [nnn](https://github.com/jarun/nnn) - A very lightweight and fast terminal file browser with excellent desktop integration.
-- [![Open-Source Software][OSS Icon]](https://teejee2008.github.io/polo) [Polo](https://github.com/teejee2008/polo) - Polo is a modern, light-weight file manager for Linux with support for multiple panes and tabs; support for archives, and much more.
-- [![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author.
-- [![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) [Ranger](http://ranger.nongnu.org/) - Ranger is a console file manager with VI key bindings.
-- [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar is the file manager designed to be the default file manager of Xfce 4.6 It has been designed to be fast and easy to use.
-- [![Open-Source Software][OSS Icon]](https://github.com/vifm/vifm) [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with VI like keybindings, which also borrows some useful ideas from mutt.
+### 文件管理器
+- [![Open-Source Software][OSS Icon]](https://github.com/pornel/7z) [7Zip](http://www.7-zip.org/download.html) - 一个非常强大的程序，可以解压几乎任何文件存档格式。
+- [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/caja) [Caja](https://mate-desktop.org/) - 是MATE桌面环境的默认文件管理器，它使用起来非常快速和简单。
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin) [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin是KDE桌面环境的默认文件管理器，具有可用性和功能。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/doublecmd/) [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander是一个跨平台的开源文件管理器，有两个面板并排。 它的灵感来自Total Commander，并提供了一些新的想法。
+- [![Open-Source Software][OSS Icon]](https://krusader.org/get-involved/index.html) [Krusader](https://krusader.org) - Krusader是* nix发行版中KDE和其他桌面的高级双面板（命令行风格）文件管理器，类似于Midnight或Total Commander。
+- [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander) [Midnight Commander](https://www.midnight-commander.org/) - 一个功能丰富的全屏文件管理器，你可以复制，移动和删除文件以及整个文件夹树。
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nautilus) [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus（Files）鹦鹉螺是为适配 Gnome 桌面设计和行为所设计的文件管理器，给用户一个简单的方式导航和管理文件。
+- [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo 是一款 Cinnamon 桌面环境下的文件管理器。
+- [![Open-Source Software][OSS Icon]](https://github.com/jarun/nnn) [nnn](https://github.com/jarun/nnn) - 一个非常轻巧，快速的终端文件浏览器。
+- [![Open-Source Software][OSS Icon]](https://teejee2008.github.io/polo) [Polo](https://github.com/teejee2008/polo) - Polo是一款适用于Linux的现代轻量级文件管理器，支持多个窗格和标签; 对档案的支持等等。
+- [![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - 基于 Qt 的文件夹统计——不用 KDE 的 KDirStat，来自原 KDirStat 开发者的作品。
+- [![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) [Ranger](http://ranger.nongnu.org/) - Ranger 是一款使用 VI 快捷键的终端文件管理器。
+- [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar 被设计成为 Xfce 4.6 的默认文件管理器，为快速和易用设计。
+- [![Open-Source Software][OSS Icon]](https://github.com/vifm/vifm) [Vifm](https://vifm.info/) - Vifm是一个基于ncurses的文件管理器，其中VI类似于键绑定，它也从mutt中借用了一些有用的想法。
 
-### Games
+### 游戏
 
 #### City Building Simulation
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - A famously complex simulation of a High Fantasy Dwarf Fortress, fight goblins, and slay massive legendary beasts. Strike the earth!
@@ -525,9 +526,9 @@
 
 
 
-### Graphics
+### 图形
 
-#### Graphic Creation
+#### 图形创作
 - [![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
 - [![Open-Source Software][OSS Icon]](http://archive.blender.org/download/source-code/index.html) [Blender](https://www.blender.org/) - a free and open source complete 3D creation pipeline for artists and small teams.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://www.cinepaint.org/) - Open source deep paint software.
@@ -616,25 +617,25 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source, cross-platform video editor with support for hundreds of audio and video formats and codecs and a sleek, intuitive interface.
 - [![Open-Source Software][OSS Icon]](https://github.com/ozmartian/vidcutter) [Vidcutter](http://vidcutter.ozmartians.com/) - Cross-platform Qt5 based app for quick and easy video trimming/splitting and merging/joining for simple quick edits.
 
-### Internet
+### 互联网
 
-#### Browser
-- [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop) [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.
-- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browser with a lot of plugins/apps.
-- [![Open-Source Software][OSS Icon]](https://www.chromium.org/) [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
-- [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide) [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browser with a lot of plugins/apps.
-- [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/gnuzilla.git) [IceCat](https://www.gnu.org/software/gnuzilla/) - GNU version of Firefox built for privacy, using only free software and free of trademarks.
-- [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa) [Midori](http://midori-browser.org/) - A lightweight free browser that runs well on low spec systems.
-- [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.github.io/min) - A smarter, faster web browser.
-- [Opera](http://www.opera.com/) - Opera browser is everything you need to do more on the web.
-- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/falkon.git) [Falkon](https://www.falkon.org/) - Falkon aims to be a lightweight web browser available through all major platforms.
+#### 浏览器
+- [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop) [Brave](https://brave.com/) - Brave是一款适用于macOS，Windows和Linux的快速，优秀的桌面浏览器。
+- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - 一款流行的浏览器，有着无数插件和应用。
+- [![Open-Source Software][OSS Icon]](https://www.chromium.org/) [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium 是一个开源浏览器项目，专注于为所有用户带来更安全、快速和稳定的 web 体验。
+- [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide) [Firefox](https://www.mozilla.org/en-US/firefox/new/) - 一款流行的浏览器，有着无数插件和应用。
+- [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/gnuzilla.git) [IceCat](https://www.gnu.org/software/gnuzilla/) - 为隐私而构建的GNU版Firefox，仅使用免费软件且不含商标。
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa) [Midori](http://midori-browser.org/) - 轻量级免费浏览器。
+- [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.github.io/min) - 更智能，更快速的Web浏览器。
+- [Opera](http://www.opera.com/) - 快速、安全又易用的浏览器
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/falkon.git) [Falkon](https://www.falkon.org/) - Falkon旨在成为所有主要平台提供的轻量级Web浏览器。
 - [![Open-Source Software][OSS Icon]](https://github.com/qutebrowser/qutebrowser) [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.
-- [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.
-- [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.
+- [Vivaldi](https://vivaldi.com/?lang=en) - 一款新兴的浏览器，有着许多的个性化配置。
+- [Yandex](https://browser.yandex.com/desktop/main/) - 快速方便的浏览器。
 
-#### Supportive Tool
+#### 实用工具
 - [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
-- [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
+- [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor 是免费软件和一个开放网络，帮助你对抗流量分析（一种网络检测的方式，威胁个人自由与隐私）。
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://github.com/rg3/youtube-dl) - Command line video downloader from youtube.com and about other thousand video platforms. It's really awesome, at least for me.
 - [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui) [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) - Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel.
 - [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encyrption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
