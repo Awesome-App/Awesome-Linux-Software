@@ -707,40 +707,40 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/albertlauncher/albert) [Albert](https://github.com/albertlauncher/albert) - Linux 桌面超赞的应用启动器。 
 - [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux文件搜索，键入时即时显示结果。
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/catfish-search) [Catfish](https://launchpad.net/catfish-search) - Catfish是一种多功能的文件搜索工具。
-- [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative.
-- [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support,RegEx support,Filter support.
-- [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application.
+- [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) [Cerebro](https://cerebroapp.com/) - 开源生产力提升工具/MacOS Spotlight 替代工具。
+- [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) [fsearch](https://github.com/cboxdoerfer/fsearch) - Unix-like 系统文件搜索 ，基于 GTK+3. 支持正则表达式，文件类型搜索等。 
+- [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) [Plotinus](https://github.com/p-e-w/plotinus) - 可搜索的命令调色板。
 
 #### Miscellaneous
-- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/anoise) [Ambient Noise](http://anoise.tuxfamily.org/) - An ambient noise generator for Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/jarun/bcal) [bcal](https://github.com/jarun/bcal) - Perform storage conversions and calculations.
-- [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features.
-- [f.lux](https://justgetflux.com/linux.html) - A program that reddens your display to help you sleep better.
-- [![Open-Source Software][OSS Icon]](https://github.com/thezbyg/gpick) [Gpick](http://www.gpick.org/) - Gpick allows you to sample any color from anywhere on your desktop, and it also provides some other advanced features!
-- [![Open-Source Software][OSS Icon]](https://github.com/jarun/pdd) [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator.
-- [![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift) [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) [SpeedCrunch](http://www.speedcrunch.org/) - A nice, open source, high-precision scientific calculator.
-- [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete.
-- [![Open-Source Software][OSS Icon]](https://github.com/xmindltd/xmind) [Xmind](http://www.xmind.net/) - A mind mapping tool.
+- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/anoise) [Ambient Noise](http://anoise.tuxfamily.org/) - 在 Linux 上安装环境噪声提高专注。
+- [![Open-Source Software][OSS Icon]](https://github.com/jarun/bcal) [bcal](https://github.com/jarun/bcal) - 存储转换和计算。
+- [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) [CopyQ](http://hluk.github.io/CopyQ/) - CopyQ 是一款高级剪贴板管理器，带有编辑和脚本功能。
+- [f.lux](https://justgetflux.com/linux.html) - 根据光线自动调节你的电脑屏屏幕显示。
+- [![Open-Source Software][OSS Icon]](https://github.com/thezbyg/gpick) [Gpick](http://www.gpick.org/) - Gpick允许您从桌面上的任何位置采样任何颜色，它还提供一些其他高级功能！
+- [![Open-Source Software][OSS Icon]](https://github.com/jarun/pdd) [pdd](https://github.com/jarun/pdd) - 微小的日期，时间差异计算器。
+- [![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift) [Redshift](http://jonls.dk/redshift/) - Redshift根据您周围的环境调整屏幕的色温。 如果您晚上在屏幕前工作，这可能会帮助您减少眼睛受伤。
+- [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) [SpeedCrunch](http://www.speedcrunch.org/) - 一个漂亮的，开源的，高精度的科学计算器。
+- [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - 当终端长时间运行的命令完成时给你通知。
+- [![Open-Source Software][OSS Icon]](https://github.com/xmindltd/xmind) [Xmind](http://www.xmind.net/) - 思维导图工具。
 
-#### Note Taking
-- [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) [Basket Note Pads](http://basket.kde.org/) - This multi-purpose note-taking application helps you to easily take all sort of notes.
-- [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you.
-- ![Nonfree][Money Icon] [Inkdrop](https://www.inkdrop.info/) - The Note-Taking App for Markdown Lovers with simple interface, seemless security and powerful APIs.
-- [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) [Joplin](http://joplin.cozic.net) - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote.
-- [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
-- [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) [Notes](http://www.get-notes.com/) - A clean simple note taking app for Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/patrikx3/onenote) [OneNote](https://pages.corifeus.com/github/onenote) - Linux Electron OneNote.
-- [![Open-Source Software][OSS Icon]](http://orgmode.org/cgit.cgi/org-mode.git/) [Org mode](http://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
-- [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus is a different note manager which is focusing on Security, Better user interface. Papyrus are trying to provide an easy to use and smart user interface for users.
-- [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
-- [Simplenote](https://simplenote.com/) - A Cross platform notetaking app and Evernote competitor.
-- [![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) [Springseed](https://github.com/spsdco/notes) - Simple and beautiful note taking app for daily user.
-- [Stickynote](https://itsfoss.com/indicator-stickynotes-windows-like-sticky-note-app-for-ubuntu/) - Sticky notes on your Linux desktop.
-- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Tomboy) [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - Tomboy is a desktop note-taking application which is simple and easy to use.
-- [![Open-Source Software][OSS Icon]](https://github.com/CellarD0-0r/whatever) [Whatever](https://github.com/CellarD0-0r/whatever) - An unofficial Evernote desktop client for Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/wizteam/wizqtclient) [WizNote](https://github.com/wizteam/wizqtclient) - A cross-platform cloud based note-taking client.
+#### 笔记
+- [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) [Basket Note Pads](http://basket.kde.org/) - 这个多用途的笔记应用帮助你记下所有类型的笔记。
+- [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote是一个开源笔记应用程序，专为程序员设计。
+- ![Nonfree][Money Icon] [Inkdrop](https://www.inkdrop.info/) - 具有简单的界面，高安全性和强大的API。
+- [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) [Joplin](http://joplin.cozic.net) - 具有Windows，macOS，Linux，Android和iOS同步功能的笔记和待办事项应用程序。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - EverNote 开源客户端。
+- [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq 是 Linux 下一款类 Notepad++ 的编辑器。
+- [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) [Notes](http://www.get-notes.com/) - 一款干净又简单的 Linux 笔记应用。
+- [![Open-Source Software][OSS Icon]](https://github.com/patrikx3/onenote) [OneNote](https://pages.corifeus.com/github/onenote) -  Electron版OneNote客户端。
+- [![Open-Source Software][OSS Icon]](http://orgmode.org/cgit.cgi/org-mode.git/) [Org mode](http://orgmode.org/) - Org mode 用于保存笔记，维护TODO列表，规划项目以及使用快速有效的纯文本系统创作文档。
+- [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus 是一款不一样的笔记管理器，它专注于安全和更佳的用户界面。Papyrus 尝试给用户提供一个易用和智能的用户界面。
+- [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes) -QOwnNotes是一个纯文本文件记事本和todo-list管理器，具有markdown支持和ownCloud / Nextcloud集成。
+- [Simplenote](https://simplenote.com/) - 跨平台笔记记录应用程序，Evernote竞争对手。
+- [![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) [Springseed](https://github.com/spsdco/notes) - 简洁美观的笔记应用。
+- [Stickynote](https://itsfoss.com/indicator-stickynotes-windows-like-sticky-note-app-for-ubuntu/) - Linux 桌面的便利贴。
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Tomboy) [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - Tomboy 是个简单易用的桌面笔记应用。
+- [![Open-Source Software][OSS Icon]](https://github.com/CellarD0-0r/whatever) [Whatever](https://github.com/CellarD0-0r/whatever) - 非官方 Evernote  Linux 桌面客户端。
+- [![Open-Source Software][OSS Icon]](https://github.com/wizteam/wizqtclient) [WizNote](https://github.com/wizteam/wizqtclient) - 为知笔记客户端Linux版。
 
 #### Time and Task
 - [![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent.
