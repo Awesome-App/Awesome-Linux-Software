@@ -742,54 +742,54 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/CellarD0-0r/whatever) [Whatever](https://github.com/CellarD0-0r/whatever) - 非官方 Evernote  Linux 桌面客户端。
 - [![Open-Source Software][OSS Icon]](https://github.com/wizteam/wizqtclient) [WizNote](https://github.com/wizteam/wizqtclient) - 为知笔记客户端Linux版。
 
-#### Time and Task
-- [![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent.
-- [![Open-Source Software][OSS Icon]](http://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command line.
+#### 时间和任务
+- [![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock 是一款全功能的 GNOME 或其它面板的闹钟。 
+- [![Open-Source Software][OSS Icon]](http://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - 命令行的日历和计划应用程序。
 - [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.
-- ![Nonfree][Money Icon] [Everdo](https://everdo.net/linux) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
-- [![Open-Source Software][OSS Icon]](https://github.com/codito/gnome-pomodoro) [Gnome Pomodoro](http://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME.
-- [![Open-Source Software][OSS Icon]](https://github.com/mank319/Go-For-It) [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.
-- [![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo) [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo is an open source to-do list program that puts you, the user, in command of everything.
-- ![Nonfree][Money Icon] [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.
-- [![Open-Source Software][OSS Icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak takes care of your health and regularly breaks your work to avoid repetitive strain injury.
-- [![Open-Source Software][OSS Icon]](https://git.tasktools.org/projects) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line.
-- [![Open-Source Software][OSS Icon]](https://github.com/todotxt/todo.txt-android) [Todo.txt](http://todotxt.com/) - todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
-- [![Open-Source Software][OSS Icon]](https://github.com/kamhix/todoist-linux) [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the cross-platform to-do manager with mobile apps, great UI and has some optional premium features.
+- ![Nonfree][Money Icon] [Everdo](https://everdo.net/linux) - 适用于所有平台的TODO列表和GettingThingsDone®应用程序。 美观，功能强大，而非SaaS，免费版本。
+- [![Open-Source Software][OSS Icon]](https://github.com/codito/gnome-pomodoro) [Gnome Pomodoro](http://gnomepomodoro.org/#download) - 适用于GNOME的全功能计时器。
+- [![Open-Source Software][OSS Icon]](https://github.com/mank319/Go-For-It) [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! 是一款简单又时尚的生产力工具，主打待办清单，结合定时器让你专注于当前的任务。
+- [![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo) [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo是一个开源的待办事项列表程序。
+- ![Nonfree][Money Icon] [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp是在您当前的任务管理服务上使用Pomodoro技术®跟踪工作流程的最简单方法。
+- [![Open-Source Software][OSS Icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak会照顾您的健康并通过定时中断您的工作，以避免重复性劳损。
+- [![Open-Source Software][OSS Icon]](https://git.tasktools.org/projects) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior是免费的开源软件，可以从命令行管理您的TODO列表。
+- [![Open-Source Software][OSS Icon]](https://github.com/todotxt/todo.txt-android) [Todo.txt](http://todotxt.com/) - todo.txt-专注的编辑器，用最少的组合键和点击帮助你管理你的任务。
+- [![Open-Source Software][OSS Icon]](https://github.com/kamhix/todoist-linux) [Todoist](https://github.com/kamhix/todoist-linux) - Todoist 的非官方客户端。Todoist 是带有移动客户端的跨平台待办事项管理器，有着优秀的用户界面以及一些可选的高级特性。
 
-#### Widget and Indicator
-- [![Open-Source Software][OSS Icon]](https://launchpad.net/indicator-brightness) [Brightness](https://launchpad.net/indicator-brightness) - Brightness indicator for Ubuntu.
-- [![Open-Source Software][OSS Icon]](https://launchpad.net/my-weather-indicator) [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Weather indicator and widget for ubuntu.
-- [![Open-Source Software][OSS Icon]](https://launchpad.net/recent-notifications) [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - An indicator for recent notification.
+#### 小工具
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/indicator-brightness) [Brightness](https://launchpad.net/indicator-brightness) - Ubuntu的亮度指示器。
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/my-weather-indicator) [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - ubuntu的天气指示器和小部件。
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/recent-notifications) [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - 最近通知的插件。
 
-### Proxy
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
-- [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) [ProxyChains](https://github.com/haad/proxychains) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
-- [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure socks5 proxy, designed to protect your Internet traffic.
-- [![Open-Source Software][OSS Icon]](https://github.com/erguotou520/electron-ssr/releases) [electron-ssr](https://github.com/erguotou520/electron-ssr) - Cross platform Shadowsocksr desktop client using electron.  
+### 代理
+- [![Open-Source Software][OSS Icon]](https://github.com/erguotou520/electron-ssr/) [Electron-ssr](https://github.com/erguotou520/electron-ssr) - electron 版 跨平台 Shadowsocksr 桌面客户端。 
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) - Privoxy 是一款无缓存 web 代理，有高级过滤功能，用以加强隐私，修改 web 页面数据以及 HTTP 头部，访问控制，还有去广告和烦人的网络垃圾的功能。 
+- [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) [ProxyChains](https://github.com/haad/proxychains) - 强制指定的应用发起的任何 TCP 连接通过像 TOR 或其它 SOCKS4，SOCKS5 或 HTTP(S) 代理进行。
+- [![Open-Source Software][OSS Icon]](https://shadowsocks.org/en/index.html) [Shadowsocks](https://shadowsocks.org/en/index.html) - 一个 socks5 代理工具，保护你的互联网流量。 
+- [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/) [Shadowsocks-QT5](https://github.com/shadowsocks/shadowsocks-qt5) - Linux下的shadowsocks GUI版本，不支持shadowsocksR。
+- [![Open-Source Software][OSS Icon]](https://github.com/v2ray)[V2ray](https://www.v2ray.com/) - 支持 Socks、HTTP、Shadowsocks、VMess 等协议的代理工具。 
 
-
-
-### Security
-- [![Open-Source Software][OSS Icon]](https://github.com/vrtadmin/clamav-devel/pulls) [ClamAV](https://www.clamav.net/) - ClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
-- [![Open-Source Software][OSS Icon]](https://github.com/fail2ban/fail2ban) [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.
+### 安全
+- [![Open-Source Software][OSS Icon]](https://github.com/vrtadmin/clamav-devel/pulls) [ClamAV](https://www.clamav.net/) - ClamAV是一种开源防病毒引擎，用于检测木马，病毒，恶意软件和其他恶意威胁。
+- [![Open-Source Software][OSS Icon]](https://github.com/fail2ban/fail2ban) [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban扫描日志文件（例如/ var / log / apache / error_log）并禁用IP - 密码失败太多，SSH端口爆破等。
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol) [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans.
-- [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
+- [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail是一个SUID程序，它通过使用Linux命名空间和seccomp-bpf限制不受信任的应用程序的运行环境来降低安全漏洞的风险。
 - [![Open-Source Software][OSS Icon]](https://firehol.org/tutorial/fireqos-new-user/) [FireQoS](https://github.com/firehol/netdata/wiki/You-should-install-QoS-on-all-your-servers) - Linux QoS (`tc`) manager for humans.
-- [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld) [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
-- [![Open-Source Software][OSS Icon]](https://git.gnupg.org/) [GnuPG](https://www.gnupg.org/) - GnuPG allows to encrypt and sign your data and communication, features a versatile key management system as well as access modules for all kinds of public key directories.
-- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw) [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/firehol/iprange) [IPrange](https://github.com/firehol/iprange) - A very fast command line utility for processing IP lists (merge, compare, exclude, etc).
+- [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld) [Firewalld](https://github.com/firewalld/firewalld) - Firewalld提供动态管理的防火墙，支持网络或防火墙区域，以定义网络连接或接口的信任级别。
+- [![Open-Source Software][OSS Icon]](https://git.gnupg.org/) [GnuPG](https://www.gnupg.org/) - GnuPG允许对数据和通信进行加密和签名，具有通用密钥管理系统以及各种公钥目录的访问模块。
+- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw) [GuFW](http://gufw.org/) - Linux上最简单的防火墙之一。
+- [![Open-Source Software][OSS Icon]](https://github.com/firehol/iprange) [IPrange](https://github.com/firehol/iprange) - 用于处理IP列表（合并，比较，排除等）的非常快速的命令行实用程序。
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/keysniffer) [keysniffer](https://github.com/jarun/keysniffer) - Linux kernel mode debugfs keylogger.
-- [![Open-Source Software][OSS Icon]](https://github.com/CISOfy/lynis) [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- [![Open-Source Software][OSS Icon]](https://github.com/CISOfy/lynis) [Lynis](https://cisofy.com/lynis/) - 适用于Linux，macOS和基于UNIX的系统的安全审核工具。 协助合规性测试（HIPAA / ISO27001 / PCI DSS）和系统强化。 无代理，安装可选。
 - [![Open-Source Software][OSS Icon]](https://www.openbsd.org/anoncvs.html) [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client
-- [![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/) [Pass](https://www.passwordstore.org/) - The standard Unix password manager.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/) [Password Safe](https://pwsafe.org/) - Password Safe allows you to safely and easily create a secured and encrypted user name/password list.
-- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Seahorse) [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - A Gnome frontend for GnuPG.
-- [![Open-Source Software][OSS Icon]](http://www.tcpdump.org/#source) [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool.
-- [![Open-Source Software][OSS Icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - Keep your system up-to-date with last kernel available. Possibility to clean old kernel too.
+- [![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/) [Pass](https://www.passwordstore.org/) - 标准的Unix密码管理器。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/) [Password Safe](https://pwsafe.org/) - Password Safe允许您安全轻松地创建安全和加密的用户名/密码列表。
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Seahorse) [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - GnuPG的Gnome前端。
+- [![Open-Source Software][OSS Icon]](http://www.tcpdump.org/#source) [Tcpdump](http://www.tcpdump.org/) - TCP调试/捕获工具。
+- [![Open-Source Software][OSS Icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - 使用最新的内核使您的系统保持最新状态。 也可以清理旧内核。
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/blocklist-ipsets) [Update-IPsets](https://iplists.firehol.org) - A manager for all cybercrime IP feeds that can download, convert and install netfilter `ipsets`.
 
-### Sharing Files
+### 文件共享
 - [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.
@@ -819,7 +819,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/webtorrent/webtorrent-desktop) [Web Torrent Desktop](https://webtorrent.io/desktop/) - Web Torrent Desktop is for streaming torrents which connects to both BitTorrent and WebTorrent peers.
 - [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely.
 
-### Terminal
+### 终端
 - [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term) [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal that mimicks the old cathode display.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/dban/) [DBAN](https://dban.org/) - Delete information stored on hard disk drives (HDDs) in PC laptops, desktops or servers.
@@ -844,7 +844,7 @@
 - [![Open-Source Software][OSS Icon]](http://invisible-island.net/xterm/) [Xterm](http://invisible-island.net/xterm/) - The Xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.
 - [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/system/yakuake/development) [Yakuake](https://yakuake.kde.org/) - A Quake-style terminal emulator based on KDE Konsole technology.
 
-### Utilities
+### 实用工具
 
 - [![Open-Source Software][OSS Icon]](https://github.com/mildred/alien) [Alien Package Converter](https://sourceforge.net/projects/alien-pkg-convert/) - Package converter. Converts between RPM, DPKG, SLP, and TGZ package formats.
 - [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan) [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner.
@@ -910,24 +910,24 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/rcaelers/workrave) [Workrave](http://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
 - [![Open-Source Software][OSS Icon]](https://github.com/KaOS-Community-Packages/xdm) [Xtreme Download Manager](http://xdman.sourceforge.net/) - A good download manager with fresh UI for Linux.
 
-### Video
-- [![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi) [Bomi Player](https://bomi-player.github.io/) - A powerful and easy-to-use multimedia player.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/cheese) [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese uses your webcam to take photos and videos, applies fancy special effects and lets you share the fun with others.
-- [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.
-- [![Open-Source Software][OSS Icon]](https://github.com/pculture/miro) [Miro](http://www.getmiro.com/) - Free, and open video, music and internet TV application; it brings video channels from thousands of sources and has more free HD than any other platform.
-- [![Open-Source Software][OSS Icon]](https://github.com/lettier/movie-monad) [Movie Monad](https://lettier.github.io/movie-monad) - A free and simple to use video player made with Haskell.
-- [![Open-Source Software][OSS Icon]](http://www.mplayerhq.hu/design7/dload.html) [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer is a movie player which runs on many systems, play any kind of videos.
-- [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) [MPV](https://www.mpv.io) - A free, open source, and cross-platform media player.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) [SMPlayer](http://smplayer.sourceforge.net/) - Free Media Player with built-in codecs. Play all audio and video formats.
-- [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors.
-- [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html) [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+### 视频
+- [![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi) [Bomi Player](https://bomi-player.github.io/) - 一款强大易用的多媒体播放器。
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/cheese) [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese 用你的摄像头拍照和录像，还能加上神奇的特效，让你能够和别人分享快乐。 
+- [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) [Kodi](https://kodi.tv/about/) - 一款获得殊荣的免费开源（GPL）软件，支持视频，音乐，图片，游戏以及更多内容的媒体中心。
+- [![Open-Source Software][OSS Icon]](https://github.com/pculture/miro) [Miro](http://www.getmiro.com/) - 免费，开放的视频，音乐以及互联网电视应用；它从成千上万的资源中带来视频频道，并且还有比其它平台更丰富的免费高清资源。
+- [![Open-Source Software][OSS Icon]](https://github.com/lettier/movie-monad) [Movie Monad](https://lettier.github.io/movie-monad) - 基于Haskell编写的免费且易于使用的视频播放器。
+- [![Open-Source Software][OSS Icon]](http://www.mplayerhq.hu/design7/dload.html) [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer 是一款支持多种系统和各种视频的视频播放器。
+- [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) [MPV](https://www.mpv.io) - 一款免费，开源，跨平台的媒体播放器。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) [SMPlayer](http://smplayer.sourceforge.net/) - 内置解码器的免费媒体播放器。可播放所有的音频和视频格式。
+- [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP 让你可以使用帧插值在你的桌面电脑上观看任何视频，就像高端电视和投影仪支持的那样。
+- [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html) [VLC](http://www.videolan.org/vlc/index.html) - VLC 是一个免费且开源的跨平台媒体播放器以及框架，可以播放大多数格式的多媒体文件以及 DVS，音频 CD，VCD，以及各种流媒体协议。
 
-### Wiki software
+### 文档应用
 - [![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/) [ikiwiki](https://ikiwiki.info/) - ikiwiki is a wiki compiler. It converts wiki pages into HTML pages suitable for publishing on a website. Ikiwiki stores pages and history in a revision control system such as Subversion or Git.
 - [![Open-Source Software][OSS Icon]](https://github.com/Jermolene/TiddlyDesktop) [TiddlyDesktop](https://tiddlywiki.com/#TiddlyDesktop) - A desktop app for TiddlyWiki, an open-source personal wiki written in javascript, great if you're still searching for a good note-taking (and more) app.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/zim) [Zim](http://zim-wiki.org/) - A graphical text editor used to maintain a collection of wiki pages, great for notes and documents. Stored in plain text files for easy version control.
 
-### Others
+### 其他
 - [![Open-Source Software][OSS Icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
 - [![Open-Source Software][OSS Icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.github.io) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries.
@@ -987,16 +987,16 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/ubports/unity8) [Unity](https://unity8.io/) - Unity is a shell for GNOME designed by Canonical for Ubuntu. A [guide](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) on how to install unity 8 on Ubuntu 16.04.
 - [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) [Xfce](https://www.xfce.org/) - Xfce embodies the traditional UNIX philosophy of modularity and re-usability.
 
-## Display manager
+## 显示管理
 
-### Console
-- [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) [CDM](https://github.com/ghost1227/cdm) - A ultra-minimalistic, yet full-featured login manager written in Bash.
-- [![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) [Console TDM](https://github.com/dopsi/console-tdm) - An extension for xinit written in pure Bash.
-- [![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) [nodm](https://github.com/spanezz/nodm) - A minimalistic display manager for automatic logins.
+### 控制台
+- [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) [CDM](https://github.com/ghost1227/cdm) - 超简化，又功能丰富，用 bash 写就的登陆管理器。 
+- [![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) [Console TDM](https://github.com/dopsi/console-tdm) - 纯 bash 写就的 xinit 扩展。
+- [![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) [nodm](https://github.com/spanezz/nodm) - 简约的自动登陆显示管理器。
 
-### Graphic
+### 图形界面
 - [![Open-Source Software][OSS Icon]](https://github.com/tomas/entrance) [Entrance](http://enlightenment.org) - An EFL based display manager, highly experimental.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gdm) [GDM](https://wiki.gnome.org/Projects/GDM) - The GNOME display manager.
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gdm) [GDM](https://wiki.gnome.org/Projects/GDM) - GNOME 显示管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/davvid/lightdm) [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - A cross-desktop display manager, can use various front-ends written in any toolkit.
 - [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/lxdm/) [LXDM](http://sourceforge.net/projects/lxdm/) - The LXDE display manager. Can be used independent of the LXDE desktop environment.
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/mdm) [MDM](https://github.com/linuxmint/mdm) - The MDM display manager, used in Linux Mint, a fork of GDM 2.
@@ -1004,119 +1004,119 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/gsingh93/slim-display-manager) [SLiM](http://sourceforge.net/projects/slim.berlios/) - Lightweight and elegant graphical login solution. (discontinued)
 - [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/xdm) [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - The X display manager with support for XDMCP, and host chooser.
 
-## Window Managers
+## 窗口管理
 
 ### Compositors
-- [![Open-Source Software][OSS Icon]](https://github.com/chjj/compton) [Compton](https://github.com/chjj/compton/wiki) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
+- [![Open-Source Software][OSS Icon]](https://github.com/chjj/compton) [Compton](https://github.com/chjj/compton/wiki) - Compton 是一款独立的合成管理器，适合同没有原生提供合成功能的窗口管理器一同使用。
 - [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
-- [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency.
+- [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr 是一个简单的合成管理器，能够渲染下拉阴影，使用 transset 工具的话，还可以实现简单的窗口透明。
 
-### Stacking window managers
-- [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) [2bwm](https://github.com/venam/2bwm) - A fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm.
-- [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) [Blackbox](http://blackboxwm.sourceforge.net) - A fast, lightweight window manager for the X Window System, without all those annoying library dependencies.
-- [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) [Fluxbox](http://fluxbox.org) - A window manager for X that was based on the Blackbox 0.61.1 code.
-- [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) [Openbox](http://openbox.org) - A highly configurable, next generation window manager with extensive standards support.
+### 叠加式窗口管理器
+- [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) [2bwm](https://github.com/venam/2bwm) - 快速的浮动窗口管理，有两个特殊边界，基于 XCB 库，由 mcwm 衍生。
+- [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) [Blackbox](http://blackboxwm.sourceforge.net) - 快速，轻量化的 X 窗口系统窗口管理器，没有那些烦人的库依赖。
+- [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) [Fluxbox](http://fluxbox.org) - 基于 Blackbox 0.61.1 代码的 X 窗口管理器。
+- [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) [Openbox](http://openbox.org) - 高度可配置，带有可扩展标准支持的下一代窗口管理器。
 
-### Tiling window managers
-- [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree.
-- [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) [Herbstluftwm](https://herbstluftwm.org) - Is a Manual tiling window manager for X11 using Xlib and Glib.
+### 平铺式窗口管理器
+- [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm 是一个平铺式窗口管理器，将窗口以二叉树的叶结点的方式展现。
+- [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) [Herbstluftwm](https://herbstluftwm.org) - 使用 Xlib 和 Glib 的手工平铺式窗口管理器。
 - [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It's completely written from scratch. The target platforms are GNU/Linux and BSD operating systems.
 - [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python.
 
-### Dynamic window managers
-- [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) [awesome](https://awesomewm.org) - A highly configurable, next generation framework window manager for X.
-- [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) [dwm](http://dwm.suckless.org) - A dynamic window manager for X. It manages windows in tiled, monocle and floating layouts.
-- [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) [i3](https://i3wm.org) - Tiling window manager, completely written from scratch.
-- [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) [spectrwm](https://github.com/conformal/spectrwm/wiki) - A small dynamic tiling window manager for X11, largely inspired by xmonad and dwm.
-- [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) [xmonad](http://xmonad.org) - A dynamically tiling X11 window manager that is written and configured in Haskell.
+### 动态窗口管理器
+- [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) [awesome](https://awesomewm.org) - 高度可配置，下一代 X 框架窗口管理器。
+- [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) [dwm](http://dwm.suckless.org) - X 动态窗口管理器。它以平铺，单片镜以及浮动布局的方式管理窗口。
+- [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) [i3](https://i3wm.org) - 完全重写的平铺式窗口管理器。
+- [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) [spectrwm](https://github.com/conformal/spectrwm/wiki) - X11 小型动态窗口管理器，很大程度上受了 xmonad 和 dwm 的启发。
+- [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) [xmonad](http://xmonad.org) - 动态平铺式 X11 窗口管理器，用 Haskell 写就和配置。
 
-## Setup
+## 设置
 
-- [What is Linux](https://www.linux.com/what-is-linux)
-- [Basic Linux terms](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
-- [Choosing Distro that Suits You Best](http://i.imgur.com/TV21DgN.jpg)
+- [什么是 Linux](https://www.linux.com/what-is-linux)
+- [Linux 基础术语](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
+- [选择最适合你的发行版](http://i.imgur.com/TV21DgN.jpg)
 - [38 Things To Do After Installing Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
 - [What do the commands on the command line mean?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
 
 ### Arch Linux
 
-- [Getting and installing Arch](https://wiki.archlinux.org/index.php/Category:Getting_and_installing_Arch)
-- [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
-- [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
-- [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
+- [新手指南](https://wiki.archlinux.org/index.php/Category:Getting_and_installing_Arch)
+- [安装指南](https://wiki.archlinux.org/index.php/Installation_guide)
+- [通用推荐](https://wiki.archlinux.org/index.php/General_recommendations)
+- [应用列表](https://wiki.archlinux.org/index.php/List_of_applications)
 
 ### Bodhi
 
-- [What is Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
-- [Where to download Bodhi](http://www.bodhilinux.com/download/)
-- [How do I install Bodhi](http://www.bodhilinux.com/w/installation-instructions/)
+- [什么是Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
+- [Bodhi下载](http://www.bodhilinux.com/download/)
+- [如何安装Bodhi](http://www.bodhilinux.com/w/installation-instructions/)
 
 ### CentOS
 
-- [Official website](https://www.centos.org)
-- [About](https://wiki.centos.org/About)
-- [Downloads](https://wiki.centos.org/Download)
-- [Manuals](https://www.centos.org/docs/)
-- [Tips and Tricks](https://wiki.centos.org/TipsAndTricks)
-- [FAQ](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
+- [官方网站](https://www.centos.org)
+- [关于](https://wiki.centos.org/About)
+- [下载](https://wiki.centos.org/Download)
+- [指南](https://www.centos.org/docs/)
+- [提示和技巧](https://wiki.centos.org/TipsAndTricks)
+- [常见问题](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
 
 ### Fedora
 
-- [What is Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
-- [Where to download Fedora](https://getfedora.org)
-- [How do I install Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
+- [什么是Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
+- [Fedora下载](https://getfedora.org)
+- [如何安装Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
 - [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
 
 ### openSUSE
 
-- [What is openSUSE](https://www.techopedia.com/definition/28543/opensuse)
-- [Reasons to try openSUSE](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
-- [Beginner's FAQ](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
-- [How to install openSUSE](https://en.opensuse.org/Portal:Installation)
-- [Review](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
+- [什么是 openSUSE](https://www.techopedia.com/definition/28543/opensuse)
+- [尝试 openSUSE 的理由](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
+- [新手常见问题解答](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
+- [如何安装 openSUSE](https://en.opensuse.org/Portal:Installation)
+- [评测](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
 
 ### Ubuntu
 
-- [What is Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
-- [How to install Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
-- [How to dual-boot Ubuntu with Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
-- [What to do after installing Ubuntu](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
+- [什么是 Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
+- [如何安装 Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
+- [如何安装 Ubuntu 和 Windows 双系统启动](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
+- [安装 ubuntu 后要做什么](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
 
-### Other distros
+### 其它发行版
 
-> To be added later
+> 待添加
 
-## Discussion Forums
+## 论坛
 
 ### Arch Linux Forums
 
-* [Arch Linux Forums](https://bbs.archlinux.org/)
-* [Arch Linux ARM Forums](https://archlinuxarm.org/forum/viewforum.php?f=31)
+* [Arch Linux 论坛](https://bbs.archlinux.org/)
+* [Arch Linux ARM 论坛](https://archlinuxarm.org/forum/viewforum.php?f=31)
 
 ### Bodhi Linux Forums
 
-* [Bodhi Linux Forums](http://forums.bodhilinux.com/)
+* [Bodhi论坛](http://forums.bodhilinux.com/)
 
 ### CentOS Forums
 
-* [CentOS Forums](https://www.centos.org/forums/)
+* [CentOS 论坛](https://www.centos.org/forums/)
 
 ### Fedora Forums
 
-* [Fedora Forums](https://forums.fedoraforum.org/index.php)
+* [Fedora论坛](https://forums.fedoraforum.org/index.php)
 
 ### Ubuntu Forums
 
-* [Ubuntu Forum](https://ubuntuforums.org/)
+* [Ubuntu 论坛](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
 
 ### openSUSE Forums
 
-* [openSUSE Forum](https://forums.opensuse.org/forum.php)
+* [openSUSE 论坛](https://forums.opensuse.org/forum.php)
 
 
 
-### IRC channels
+### IRC频道
 
 * [#linux](http://webchat.freenode.net/?channels=#linux)
 * [#ubuntu](https://webchat.freenode.net/?channels=ubuntu)
@@ -1126,7 +1126,7 @@
 * [#docker](http://webchat.freenode.net/?channels=docker)
 * [#bash](http://webchat.freenode.net/?channels=bash)
 
-### Linux News, Apps, and more:
+### Linux 新闻，应用，以及更多...
 
 * [OMG!Ubuntu](http://www.omgubuntu.co.uk/)
 * [ITSFOSS](https://itsfoss.com/)
@@ -1157,57 +1157,57 @@
 * [Linux Kernel](https://www.reddit.com/r/kernel/)
 * [Linux Gaming](https://www.reddit.com/r/linux_gaming/)
 
-## Learn Linux
+## 学习 Linux
 
-- [Beginner's guide to Linux](https://www.linux.com/learn/complete-beginners-guide-linux%20)
-- [Learn Linux Command](http://linuxcommand.org/)
-- [GNU/Linux Command-Line Tools Summary](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
-- [Learn Linux](https://linuxjourney.com/)
-- [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
-- [Linux Pocket Guide](http://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
+- [Linux新手指南](https://www.linux.com/learn/complete-beginners-guide-linux%20)
+- [学习Linux命令](http://linuxcommand.org/)
+- [GNU/Linux 命令行工具总结](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
+- [学习Linux](https://linuxjourney.com/)
+- [Linux课程](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+- [Linux口袋Guide](http://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
 - [Programming Community Curated Resources for learning Linux](https://hackr.io/tutorials/learn-linux-system-administration)
 
-## Linux Hacking/Development
+## Linux Hacking/开发
 
-- [Kernel Newbies](https://kernelnewbies.org/)
+- [内核新手](https://kernelnewbies.org/)
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
-- [The Linux Kernel](http://www.tldp.org/LDP/tlk/tlk.html)
-- [Linux Kernel Archives (Official Website)](https://www.kernel.org/)
+- [Linux 内核](http://www.tldp.org/LDP/tlk/tlk.html)
+- [Linux 内核归档（官方站点）](https://www.kernel.org/)
 - [Linux Kernel Internals (PDF)](http://www.tldp.org/LDP/lki/lki.pdf)
-- [Linux Kernel Mailing List Archive](https://lkml.org/)
-- [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+- [Linux 内核邮件列表归档](https://lkml.org/)
+- [Linux 内核模块编程指南（PDF）](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
-## Advanced Linux
+## Linux进阶
 
 - [Virtual Containers](https://github.com/Citrix-TechSpecialist/Docker-101)
 - [Virtualization with Virtualbox](https://www.virtualbox.org/manual/ch01.html)
 
-## Other Awesome Lists
+## 其他超赞的列表
 
-*These are the list that I highly recommended:*
+*下面这些列表也是我强烈推荐的：*
 - [Awesome Linux Audio](https://github.com/nodiscc/awesome-linuxaudio)
 - [Awesome Self-hosted](https://github.com/kickball/awesome-selfhosted)
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 
-## Contributors
+## 贡献者
 
 Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) for making this list possible and
 *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other forums for many suggestions and compliments*
  ...
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 <br>
 
-## Guidelines to contribute
+## 贡献指南
 
-> Simply put the name of the **application** in the list.
-> Link to its **homepage** or a **guide** on how to install it.
-> Also write a **short description** for the application + add **icon**.
-> Make sure it is put under the **appropriate topic**.
-> If the application doesn't fit in any **existing topic**, make a **new one** for it.
-> Ensure everything is **alphabetically sorted**.
+> 将**应用**的名称放入列表。
+> 链接到它的**主页**或**安装指南**。
+> 再给应用写一小段**简短的介绍** + 添加**图标**。
+> 确保应用放在了**合适的主题**下。
+> 如果应用不在以上任何一个**已有的主题**内，为它**新建一个**主题。
+> 确保所有项都是按**字母表顺序排序**的。
 
 ## Unsure how to contribute?
 
@@ -1216,19 +1216,19 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 - [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
 - [Alternative Markdown Guide:](https://guides.github.com/features/mastering-markdown/)
 
-*Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with [![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
+标有 ![Open-Source Software][OSS Icon] 的是开源软件并且链接到源代码。标有 [![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
 
 <br>
 
-*Author's note: Recently, I received feedbacks from you about the quality of some applications on this list. I myself tested them out a lot (not all of them, though). If you have any problems with the apps, please: -> head to the dev page (if available) -> make an issue for the dev there -> make an issue here so that I can consider whether I should get the app out of the list. Remember : Everything has its own quality, so there will never be anything like "best app" or "selective list" here, thank you.*
+*原作者注：最近我收到了一些关于列表中一些应用软件的质量的反馈。我自己测试了其中的大部分应用（但不是全部）。如果你对应用有任何问题：-> 去往开发页面（如果有的话）-> 给开发提个 issue -> 在这里提个 issue 以便我考虑是否将应用移出列表。记住：所有东西都有它自己的质量，所以这里永远不会有“最佳应用”或“选择性的列表”，谢谢。*
 
 <br>
 
-## License
+## 许可证
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+该作品签署于 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
